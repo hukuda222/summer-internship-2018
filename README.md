@@ -5,7 +5,7 @@
 github trendのページから情報をgolangでクロールしてきて、reactで描画します。
 全体とは別に、いくつかの言語別のトレンドも表示できるようにしました。
 
-![](https://github.com/hukuda222/summer-internship-2018/blob/master/img/image.png)
+![](https://raw.githubusercontent.com/hukuda222/summer-internship-2018/server-task1/img/image.png)
 
 
 ## 環境構築マニュアル
