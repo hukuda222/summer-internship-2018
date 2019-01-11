@@ -25,7 +25,7 @@ npm run bindata
 npm run dev & fresh
 ```
 
-http://localhost:3000/を開くと見られます。
+http://localhost:3000/ を開くと見られます。
 
 
 ## 言語/ライブラリ/アーキテクチャなどの選定理由
